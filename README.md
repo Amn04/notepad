@@ -18,7 +18,8 @@ Simple notepad application with rich features created using QT5.
    Tested and ccreated on QT5.15.2 with MSVC 2019 compiler.
 2. Clone code and open .pro file in qtcreator
 3. Code starts at Mainwindow.cpp
-4.Run project
+4. Run project
+
 # Issues/To-Do
 1. Subcript and superscript stops by clicking normal.
 2. No warning if application closes.
